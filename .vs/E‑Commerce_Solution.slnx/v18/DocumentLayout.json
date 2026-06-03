@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{230E7F77-86EA-F10C-2E16-9F4B47C5980A}|E\u2011Commerce.API\\E\u2011Commerce.API.csproj|c:\\users\\yk779\\desktop\\x\\e-commerce-api-main\\e\u2011commerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{230E7F77-86EA-F10C-2E16-9F4B47C5980A}|E\u2011Commerce.API\\E\u2011Commerce.API.csproj|solutionrelative:e\u2011commerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\E-Commerce.Infrastructure\\Migrations\\20260510180333_tow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Infrastructure\\Migrations\\20260510180333_tow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507DD327-40BD-C284-9F34-1C336AB692D0}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\yk779\\desktop\\x\\e-commerce-api-main\\e-commerce.infrastructure\\migrations\\20260510175615_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507DD327-40BD-C284-9F34-1C336AB692D0}|E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\migrations\\20260510175615_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230E7F77-86EA-F10C-2E16-9F4B47C5980A}|E\u2011Commerce.API\\E\u2011Commerce.API.csproj|c:\\users\\yk779\\desktop\\x\\e-commerce-api-main\\e\u2011commerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230E7F77-86EA-F10C-2E16-9F4B47C5980A}|E\u2011Commerce.API\\E\u2011Commerce.API.csproj|solutionrelative:e\u2011commerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\E-Commerce.Infrastructure\\Migrations\\20260510132458_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E-Commerce.Infrastructure\\Migrations\\20260510132458_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260510180333_tow.cs",
+              "DocumentMoniker": "C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\E-Commerce.Infrastructure\\Migrations\\20260510180333_tow.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260510180333_tow.cs",
+              "ToolTip": "C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\E-Commerce.Infrastructure\\Migrations\\20260510180333_tow.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260510180333_tow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T18:03:33.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260510175615_one.cs",
+              "DocumentMoniker": "C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\E-Commerce.Infrastructure\\Migrations\\20260510175615_one.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260510175615_one.cs",
+              "ToolTip": "C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\E-Commerce.Infrastructure\\Migrations\\20260510175615_one.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260510175615_one.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:56:15.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\E\u2011Commerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "E\u2011Commerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\E\u2011Commerce.API\\Program.cs",
+              "RelativeToolTip": "E\u2011Commerce.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:55:40.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260510132458_one.cs",
+              "DocumentMoniker": "C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\E-Commerce.Infrastructure\\Migrations\\20260510132458_one.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Infrastructure\\Migrations\\20260510132458_one.cs",
+              "ToolTip": "C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\E-Commerce.Infrastructure\\Migrations\\20260510132458_one.cs",
+              "RelativeToolTip": "E-Commerce.Infrastructure\\Migrations\\20260510132458_one.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T13:24:58.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\E\u2011Commerce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "E\u2011Commerce.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\yk779\\Desktop\\x\\E-Commerce-API-main\\E\u2011Commerce.API\\appsettings.json",
+              "RelativeToolTip": "E\u2011Commerce.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-10T13:13:22.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
